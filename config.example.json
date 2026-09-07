@@ -1,0 +1,12 @@
+{
+  "steam_id": "YOUR_17_DIGIT_STEAM_ID",
+  "country": "US",
+  "max_price": 30,
+  "min_discount": 20,
+  "favorite_tags": [],
+  "excluded_tags": [],
+  "ignored_appids": [],
+  "library_sample": 40,
+  "max_deals": 200,
+  "top_n": 20
+}

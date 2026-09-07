@@ -1,0 +1,6 @@
+config.json
+secrets.json
+*.sqlite3
+__pycache__/
+report.html
+demo.html
